@@ -20,7 +20,7 @@ Unfortunately, the model did not improve
 The score imrpoved from 1.78 and 1.80 to 1.41
 
 ### If you were given more time with this dataset, where do you think you would spend more time?
-TODO: Add your explanation
+I will spend more time on  the hyperparamers optimisation since it showed the biggest enhancement in the performance.
 
 ### Create a table with the models you ran, the hyperparameters modified, and the kaggle score.
 |model|hpo1|hpo2|hpo3|score|
@@ -31,15 +31,13 @@ TODO: Add your explanation
 
 ### Create a line plot showing the top model score for the three (or more) training runs during the project.
 
-TODO: Replace the image below with your own.
 
 ![model_train_score.png](img/model_train_score.png)
 
 ### Create a line plot showing the top kaggle score for the three (or more) prediction submissions during the project.
 
-TODO: Replace the image below with your own.
 
 ![model_test_score.png](img/model_test_score.png)
 
 ## Summary
-TODO: Add your explanation
+The current project allowed to use autogluon to train several models with minimal coding efforts for the case of bike sharing. The exploration of hyperparameters significantly enhanced the performance of the model on the testing data. 
